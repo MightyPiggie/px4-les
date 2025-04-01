@@ -19,7 +19,7 @@ hideInToc: true
 <br>
 
 ### Find the slides at: 
-### px4.naomismienk.nl
+### https://mightypiggie.github.io/px4-les
 
 ---
 hideInToc: true
